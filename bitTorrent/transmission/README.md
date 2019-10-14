@@ -15,5 +15,5 @@
 # Description of Files
 * `env.sh` : contains all the environemntal variables. To change version of Transmission update this
 * `build-image.sh` : contains docker command to build image 
-* `transmission.Dockerfile` : dockerfile for `intellij-idea` image
+* `transmission.Dockerfile` : dockerfile for `transmission` image
 * `run-contianer.sh`: contains docker command to run container from the image. Volume binding and GUI forwarding are done here.
